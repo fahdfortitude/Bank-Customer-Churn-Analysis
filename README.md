@@ -1,14 +1,12 @@
-# Bank-Customer-Churn-Analysis
-The Prediction of whether customers will stop carrying out their transaction in a bank,
-#### Churn Analysis for an Anonymous Bank
-<b>data source :</b> Analytics Vidhya
+# Bank-Customer-Churn-Analysis for an Anonymous Bank
+The Prediction of whether customers will stop carrying out their transaction in a bank
+<b>Data source :</b> Analytics Vidhya
 
 ### Data Dictionary
-
 There are multiple variables in the dataset which can be cleanly divided in 3 categories:
 
-#### Demographic information about customers
 
+#### Demographic information about customers
 
 * <b>customer_id</b> - Customer id
 
@@ -26,7 +24,6 @@ There are multiple variables in the dataset which can be cleanly divided in 3 ca
 
 
 #### Customer Bank Relationship
-
 
 * <b>customer_nw_category</b> - Net worth of customer (3:Low 2:Medium 1:High)
 
