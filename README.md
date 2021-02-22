@@ -1,5 +1,5 @@
 # Bank-Customer-Churn-Analysis for an Anonymous Bank
-The Prediction of whether customers will stop carrying out their transaction in a bank
+The Prediction of whether customers will stop carrying out their transactions in a bank
 <b>Data source :</b> Analytics Vidhya
 
 ### Data Dictionary
