@@ -59,4 +59,4 @@ There are multiple variables in the dataset which can be cleanly divided in 3 ca
 
 ## Table of Contents
 1. [Exploratory Data Analysis](https://github.com/fahdfortitude/Bank-Customer-Churn-Analysis/blob/main/Churn%20EDA.ipynb) 
-2. [Machine Learning Analysis](https://github.com/fahdfortitude/Bank-Customer-Churn-Analysis/blob/main/Churn%20machine%20learning.ipynb)
+2. [Machine Learning](https://github.com/fahdfortitude/Bank-Customer-Churn-Analysis/blob/main/Churn%20machine%20learning.ipynb)
