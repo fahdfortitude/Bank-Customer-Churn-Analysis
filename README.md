@@ -56,3 +56,7 @@ There are multiple variables in the dataset which can be cleanly divided in 3 ca
 * <b>previous_month_balance</b> - Average Balance of previous month
 
 * <b>churn</b> - Average balance of customer falls below minimum balance in the next quarter (1/0)
+
+## Table of Contents
+1. [Exploratory Data Analysis](https://github.com/fahdfortitude/Bank-Customer-Churn-Analysis/blob/main/Churn%20EDA.ipynb) 
+2. [Machine Learning Analysis](https://github.com/fahdfortitude/Bank-Customer-Churn-Analysis/blob/main/Churn%20machine%20learning.ipynb)
